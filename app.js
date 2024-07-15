@@ -13,3 +13,11 @@ btn.addEventListener("click", function () {
     delBtn.classList.add("delete");
     item.appendChild(delBtn);
 });
+
+let delBtns = document.querySelectorAll(".delete");
+for(delBtn of delBtns){
+    delBtn.addEventListener("click", function() {
+        let par = this.parentElement;
+        par.remove();
+    });
+}
