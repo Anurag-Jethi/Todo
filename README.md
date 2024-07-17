@@ -19,11 +19,10 @@ A simple and interactive to-do list application built with HTML, CSS, and JavaSc
 ## Screenshots
 
 ![Screenshot1](/Screenshots/Screenshot1.png)
-Adding Task:
-
+### Adding Task:
 ![Screenshot2](/Screenshots/Screenshot2.png)
 ![Screenshot3](/Screenshots/Screenshot3.png)
-Deleting task:
+### Deleting task:
 
 ![Screenshot4](/Screenshots/Screenshot4.png)
 ![Screenshot5](/Screenshots/Screenshot5.png)
